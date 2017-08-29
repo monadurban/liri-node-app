@@ -1,0 +1,28 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Creating a LIRI bot using Twitter, Spotify, and Request",
+  "main": "liri.js",
+  "scripts": {
+    "start": "node liri.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monadurban/liri-node-app.git"
+  },
+  "keywords": [
+    "liri-bot"
+  ],
+  "author": "mdurban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monadurban/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/monadurban/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}

@@ -1,0 +1,212 @@
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 18:36:03 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: “Be yourself; everyone else is already taken.”
+-Oscar Wilde
+Created at: Wed Aug 23 18:13:02 +0000 2017 
+2. Tweet: “Do what you can, with what you have, where you are.”
+-Theodore Roosevelt
+Created at: Wed Aug 23 18:12:41 +0000 2017 
+3. Tweet: “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+-Dr. Seuss
+Created at: Wed Aug 23 18:11:44 +0000 2017 
+4. Tweet: Hello Twitter! #myfirstTweet
+Created at: Wed Aug 23 18:10:13 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 20:05:30 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: “Be yourself; everyone else is already taken.”
+-Oscar Wilde
+Created at: Wed Aug 23 18:13:02 +0000 2017 
+2. Tweet: “Do what you can, with what you have, where you are.”
+-Theodore Roosevelt
+Created at: Wed Aug 23 18:12:41 +0000 2017 
+3. Tweet: “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+-Dr. Seuss
+Created at: Wed Aug 23 18:11:44 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+4. Tweet: Hello Twitter! #myfirstTweet
+Created at: Wed Aug 23 18:10:13 +0000 2017 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:41:34 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+2. Tweet: “Do what you can, with what you have, where you are.”
+-Theodore Roosevelt
+Created at: Wed Aug 23 18:12:41 +0000 2017 
+3. Tweet: “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+-Dr. Seuss
+Created at: Wed Aug 23 18:11:44 +0000 2017 
+1. Tweet: “Be yourself; everyone else is already taken.”
+-Oscar Wilde
+Created at: Wed Aug 23 18:13:02 +0000 2017 
+4. Tweet: Hello Twitter! #myfirstTweet
+Created at: Wed Aug 23 18:10:13 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:57:23 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+3. Tweet: “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+-Dr. Seuss
+Created at: Wed Aug 23 18:11:44 +0000 2017 
+1. Tweet: “Be yourself; everyone else is already taken.”
+-Oscar Wilde
+Created at: Wed Aug 23 18:13:02 +0000 2017 
+2. Tweet: “Do what you can, with what you have, where you are.”
+-Theodore Roosevelt
+Created at: Wed Aug 23 18:12:41 +0000 2017 
+4. Tweet: Hello Twitter! #myfirstTweet
+Created at: Wed Aug 23 18:10:13 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 08:33:05 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+2. Tweet: “Do what you can, with what you have, where you are.”
+-Theodore Roosevelt
+Created at: Wed Aug 23 18:12:41 +0000 2017 
+3. Tweet: “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+-Dr. Seuss
+Created at: Wed Aug 23 18:11:44 +0000 2017 
+1. Tweet: “Be yourself; everyone else is already taken.”
+-Oscar Wilde
+Created at: Wed Aug 23 18:13:02 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+4. Tweet: Hello Twitter! #myfirstTweet
+Created at: Wed Aug 23 18:10:13 +0000 2017 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 08:40:07 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+2. Tweet: To believe in something, and not to live it, is dishonest. ― Mahatma Gandhi
+Created at: Thu Aug 24 12:36:32 +0000 2017 
+1. Tweet: Part of the success in life is to eat what you like and let the food fight it out inside. -Mark Twain
+Created at: Thu Aug 24 12:39:54 +0000 2017 
+4. Tweet: The greatest pleasure in life is doing what people say you cannot do. – Walter Bagehot
+Created at: Thu Aug 24 12:34:41 +0000 2017 
+3. Tweet: Success is the sum of small efforts, repeated day in and day out. – R. Collier
+Created at: Thu Aug 24 12:35:04 +0000 2017 
+7. Tweet: “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+-Dr. Seuss
+Created at: Wed Aug 23 18:11:44 +0000 2017 
+6. Tweet: “Do what you can, with what you have, where you are.”
+-Theodore Roosevelt
+Created at: Wed Aug 23 18:12:41 +0000 2017 
+5. Tweet: “Be yourself; everyone else is already taken.”
+-Oscar Wilde
+Created at: Wed Aug 23 18:13:02 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+8. Tweet: Hello Twitter! #myfirstTweet
+Created at: Wed Aug 23 18:10:13 +0000 2017 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 09:36:59 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+2. Tweet: To believe in something, and not to live it, is dishonest. ― Mahatma Gandhi
+Created at: Thu Aug 24 12:36:32 +0000 2017 
+1. Tweet: Part of the success in life is to eat what you like and let the food fight it out inside. -Mark Twain
+Created at: Thu Aug 24 12:39:54 +0000 2017 
+5. Tweet: “Be yourself; everyone else is already taken.”
+-Oscar Wilde
+Created at: Wed Aug 23 18:13:02 +0000 2017 
+3. Tweet: Success is the sum of small efforts, repeated day in and day out. – R. Collier
+Created at: Thu Aug 24 12:35:04 +0000 2017 
+7. Tweet: “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+-Dr. Seuss
+Created at: Wed Aug 23 18:11:44 +0000 2017 
+4. Tweet: The greatest pleasure in life is doing what people say you cannot do. – Walter Bagehot
+Created at: Thu Aug 24 12:34:41 +0000 2017 
+6. Tweet: “Do what you can, with what you have, where you are.”
+-Theodore Roosevelt
+Created at: Wed Aug 23 18:12:41 +0000 2017 
+8. Tweet: Hello Twitter! #myfirstTweet
+Created at: Wed Aug 23 18:10:13 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 09:48:48 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: Part of the success in life is to eat what you like and let the food fight it out inside. -Mark Twain
+Created at: Thu Aug 24 12:39:54 +0000 2017 
+2. Tweet: To believe in something, and not to live it, is dishonest. ― Mahatma Gandhi
+Created at: Thu Aug 24 12:36:32 +0000 2017 
+3. Tweet: Success is the sum of small efforts, repeated day in and day out. – R. Collier
+Created at: Thu Aug 24 12:35:04 +0000 2017 
+5. Tweet: “Be yourself; everyone else is already taken.”
+-Oscar Wilde
+Created at: Wed Aug 23 18:13:02 +0000 2017 
+6. Tweet: “Do what you can, with what you have, where you are.”
+-Theodore Roosevelt
+Created at: Wed Aug 23 18:12:41 +0000 2017 
+4. Tweet: The greatest pleasure in life is doing what people say you cannot do. – Walter Bagehot
+Created at: Thu Aug 24 12:34:41 +0000 2017 
+7. Tweet: “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+-Dr. Seuss
+Created at: Wed Aug 23 18:11:44 +0000 2017 
+8. Tweet: Hello Twitter! #myfirstTweet
+Created at: Wed Aug 23 18:10:13 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 20:04:56 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+3. Tweet: Success is the sum of small efforts, repeated day in and day out. – R. Collier
+Created at: Thu Aug 24 12:35:04 +0000 2017 
+1. Tweet: Part of the success in life is to eat what you like and let the food fight it out inside. -Mark Twain
+Created at: Thu Aug 24 12:39:54 +0000 2017 
+4. Tweet: The greatest pleasure in life is doing what people say you cannot do. – Walter Bagehot
+Created at: Thu Aug 24 12:34:41 +0000 2017 
+5. Tweet: “Be yourself; everyone else is already taken.”
+-Oscar Wilde
+Created at: Wed Aug 23 18:13:02 +0000 2017 
+2. Tweet: To believe in something, and not to live it, is dishonest. ― Mahatma Gandhi
+Created at: Thu Aug 24 12:36:32 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+6. Tweet: “Do what you can, with what you have, where you are.”
+-Theodore Roosevelt
+Created at: Wed Aug 23 18:12:41 +0000 2017 
+7. Tweet: “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
+-Dr. Seuss
+Created at: Wed Aug 23 18:11:44 +0000 2017 
+8. Tweet: Hello Twitter! #myfirstTweet
+Created at: Wed Aug 23 18:10:13 +0000 2017 

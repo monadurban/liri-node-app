@@ -1,0 +1,211 @@
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:16:29 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Lion,King
+DATA OUTPUT:
+Title: Lion
+Year: 2016
+IMDb Rating: 8.1
+Country: UK, Australia, USA
+Language: English, Hindi, Bengali
+Plot: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+Actors: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:16:39 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,'Lion,King'
+DATA OUTPUT:
+Title: The Lion King
+Year: 1994
+IMDb Rating: 8.5
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame, Jim Cummings
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:18:05 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Jumanji
+DATA OUTPUT:
+Title: Jumanji
+Year: 1995
+IMDb Rating: 6.9
+Country: USA
+Language: English, French
+Plot: When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.
+Actors: Robin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:19:09 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Moana
+DATA OUTPUT:
+Title: Moana
+Year: 2016
+IMDb Rating: 7.7
+Country: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:21:35 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Moana
+DATA OUTPUT:
+Title: Moana
+Year: 2016
+IMDb Rating: 7.7
+Country: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:23:08 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Moana
+DATA OUTPUT:
+Title: Moana
+Year: 2016
+IMDb Rating: 7.7
+Country: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:23:26 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this
+DATA OUTPUT:
+Title: Mr. Nobody
+Year: 2009
+IMDb Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:41:51 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Lion,King
+DATA OUTPUT:
+Title: Lion
+Year: 2016
+IMDb Rating: 8.1
+Country: UK, Australia, USA
+Language: English, Hindi, Bengali
+Plot: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+Actors: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Aug 23 2017 21:57:34 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Lion,King
+DATA OUTPUT:
+Title: Lion
+Year: 2016
+IMDb Rating: 8.1
+Country: UK, Australia, USA
+Language: English, Hindi, Bengali
+Plot: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+Actors: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 08:32:51 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Lion,King
+DATA OUTPUT:
+Title: Lion
+Year: 2016
+IMDb Rating: 8.1
+Country: UK, Australia, USA
+Language: English, Hindi, Bengali
+Plot: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+Actors: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 09:37:42 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Lion,King
+DATA OUTPUT:
+Title: Lion
+Year: 2016
+IMDb Rating: 8.1
+Country: UK, Australia, USA
+Language: English, Hindi, Bengali
+Plot: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+Actors: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 09:48:59 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Lion,King
+DATA OUTPUT:
+Title: Lion
+Year: 2016
+IMDb Rating: 8.1
+Country: UK, Australia, USA
+Language: English, Hindi, Bengali
+Plot: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+Actors: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 09:50:32 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this,Lion,King
+DATA OUTPUT:
+Title: Lion
+Year: 2016
+IMDb Rating: 8.1
+Country: UK, Australia, USA
+Language: English, Hindi, Bengali
+Plot: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.
+Actors: Sunny Pawar, Abhishek Bharate, Priyanka Bose, Khushi Solanki
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Thu Aug 24 2017 20:06:30 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\mmdur\Documents\UNC_Bootcamp_Class\LIRI Bot\liri-node-app\liri.js,movie-this
+DATA OUTPUT:
+Title: Mr. Nobody
+Year: 2009
+IMDb Rating: 7.9
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: undefined
+ =============== LOG ENTRY END ===============
+ 
